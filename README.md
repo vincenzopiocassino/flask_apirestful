@@ -21,3 +21,6 @@ Next, we will use Flask-RESTful to develop the APIs. Flask-RESTful is an extensi
 
 ## Deployment on Google Cloud Platform (GCP)
 Next, let's deploy our application on GCP. We will use Google Cloud Firestore as the database and Gunicorn as the server to handle incoming requests.
+
+
+#### Guide to Using RESTful APIs for Color Management created by Vincenzo Pio Cassino.

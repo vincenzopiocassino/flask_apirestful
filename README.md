@@ -1,4 +1,4 @@
-##### Guide to Using RESTful APIs for Color Management
+# Guide to Using RESTful APIs for Color Management
 Welcome to the guide on using RESTful APIs for color management. In this guide, we will learn how to interact with APIs to perform CRUD operations (Create, Read, Update, Delete) on colors using JSON format. We will use the OpenAPI Specification to define our APIs and Flask to create the web application that will host the APIs. The guide also covers deployment on the Google Cloud Platform (GCP) using Google Cloud Firestore as the database.
 
 ## What is a RESTful API?

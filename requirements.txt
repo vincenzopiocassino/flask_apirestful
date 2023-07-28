@@ -1,0 +1,6 @@
+flask
+wtforms
+flask_restful
+requests
+google-cloud-firestore
+gunicorn

@@ -1,0 +1,17 @@
+<html>
+    <link rel="stylesheet" href="/static/color.css">
+    <body>
+        <table class="frame">
+            <tr><td><div class="colorbox" style="background-color:rgb({{red}}, {{green}}, {{blue}});">&nbsp;</div></td></tr>
+            <tr><td class="colordescription">{{name}}: {{rgb}}</td></tr>
+        </table>
+        <form method="POST">
+            <table>
+                <tr><td>{{form.red.label}}</td><td>{{form.red}}</td></tr>
+                <tr><td>{{form.green.label}}</td><td>{{form.green}}</td></tr>
+                <tr><td>{{form.blue.label}}</td><td>{{form.blue}}</td></tr>
+                <tr><td></td><td>{{form.submit}}</td></tr>
+            </table>
+        </form>
+    </body>
+</html>
